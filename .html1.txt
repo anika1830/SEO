@@ -1,0 +1,14 @@
+                                                                                          SEO
+                                                                                   Assignment
+
+Ques:1 What is SEO and explain the importance of SEO?
+Ans:1 SEO stands for search engine optimization—the practice of increasing the quantity and quality of traffic to your website through organic search engine results.
+The ultimate goal of SEO for business is to generate organic traffic—searchers clicking through to your website from a search engine results page (SERP).
+The vast majority of online experiences begin on a search engine, making search the most used digital tool, which is at the heart of why SEO is so important.
+There’s been plenty of chatter about Google’s continually evolving algorithms and how to keep up with them, but it can be much more useful to understand 
+their goal: providing the best experience for the searcher.
+The ultimate goal of SEO is to rank higher in search engine results pages for relevant keywords and phrases,
+which can increase visibility, traffic, and ultimately revenue for the website.
+The importance of SEO -
+Meta tags are important for SEO because they provide information to search engines about the content on your
+site and can help improve your website's visibility and ranking in search engine results pages.
